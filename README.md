@@ -60,4 +60,4 @@ Or view the `.png` / `.pdf` exports for a quick, no-install look.
 
 **Shad Ali Shah**
 MPhil Economics Candidate, Quaid-i-Azam University | Data Analytics & BI
-[GitHub](https://github.com/shadalishah) · [LinkedIn](https://linkedin.com/in/shad-ali-shah) · [Portfolio](https://shad-ali-shah.lovable.app)
+[GitHub](https://github.com/shadalishah) · [LinkedIn](https://linkedin.com/in/shad-ali-shah) · [Portfolio](https://shad-data-science.lovable.app)
