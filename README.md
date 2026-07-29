@@ -2,8 +2,6 @@
 
 An interactive Tableau dashboard analyzing employment rate trends in Pakistan (1991–2025) with forecasts through 2030, benchmarked against 183 countries worldwide.
 
-![Dashboard Preview](Pakistan_Employment_Trends___Global_Comparison_Dashboard.png)
-
 ## Overview
 
 This project analyzes Pakistan's employment rate (age 25+) by gender over 35 years and forecasts the trend to 2030 using Tableau's built-in forecasting model. It also benchmarks Pakistan against the top-performing countries globally on the same metric.
